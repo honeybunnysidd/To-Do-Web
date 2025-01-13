@@ -12,9 +12,10 @@
 
 ## Technologies used :
 
-| HTML                                                                                | CSS                                                                               |
-| ----------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML" width="65"/> | <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS" width="65"/> |
+## Technologies used :
+  | HTML  | CSS  | JavaScript  |
+  |-------|------|-------------|
+ | <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML" width="65"/> | <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS" width="65"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="65"/> |
 
 ## Author :
 
